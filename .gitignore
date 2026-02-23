@@ -1,9 +1,0 @@
-# Data files (too large for GitHub)
-data/
-
-
-
-# Python virtual environment
-.venv/
-__pycache__/
-*.pyc

@@ -1,2 +1,0 @@
-ieee[[:space:]]trans/code/F3_seismic/*.npy filter=lfs diff=lfs merge=lfs -text
-ieee[[:space:]]trans/code/F3_seismic/*.zip filter=lfs diff=lfs merge=lfs -text
